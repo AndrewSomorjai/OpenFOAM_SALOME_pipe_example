@@ -4,7 +4,7 @@ A simple example of a straight pipe with a mass flow rate.
 This was tested with an AMD64 processor (32 gigs RAM)
 on Xubuntu 18.04 LTS with OpenFOAM v18.06.
 
-Open meshing.hdf (found in CAD folder) in Salome.
+Open pipe_viscous.hdf in Salome (must use 7z to extract the files).
 
 Export rotor mesh as pipe.unv into straight_pipe/
 
